@@ -39,7 +39,7 @@ Files include:
 
 
 For Code:
-* Open the notebook file to view all the code used to train and build the model. To see a live demo, go to  <a href="danial-amin.github.io" target="">my portfolio.</a>.
+* Open the notebook file to view all the code used to train and build the model. To see a live demo, go to  <a href="https://danial-amin.github.io/#home" target="">my portfolio.</a>.
 
 
 <!-- LICENSE -->
