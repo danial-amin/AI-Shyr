@@ -28,7 +28,7 @@ Files include:
 
 * [spaCy]
 * [Flask]
-*[GCP]
+* [GCP]
 * [Python3]
 * [Jupyter Notebook]
 
